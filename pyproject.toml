@@ -10,7 +10,7 @@ description = "compression tools"
 readme = "README.md"
 license = { file = "LICENSE" }
 dependencies = [
-    "zstandard" == "0.23.0",
+    "zstandard==0.23.0",
 ]
 
 keywords = [
